@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhishek-kanojiya2.netlify.app/](https://abhishek-kanojiya2.netlify.app/)
 
-- 💬 Ask me about **HTML/CSS,Javascript,MERN Stack,AWS**
+- 💬 Ask me about **HTML/CSS, Javascript, MERN Stack, AWS**
 
 - 📫 How to reach me **abhi67562@gmail.com**
 
